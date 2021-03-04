@@ -12,3 +12,10 @@ Welcome to my GitHub profile, this is currently a work in progress. Check back l
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight" />
 </a>
+
+Some of my projects: 
+
+[Someone bot](https://github.com/ApocalypseCalculator/Someone): A Discord bot that replicates the @someone feature from 2018 April fools
+[AnotherAdBlock](https://github.com/ApocalypseCalculator/AnotherAdBlock): A simplistic ad/tracker blocking extension for most modern browsers
+[Feck Files](https://github.com/ApocalypseCalculator/Feck): A robust online file drive site (temporarily privated for cleansing)
+[StalinLang](https://github.com/ApocalypseCalculator/StalinLang): A poorly written esoteric language that replaces JavaScript keywords (lol)
