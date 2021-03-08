@@ -19,7 +19,7 @@ Some of my projects:
 
 [AnotherAdBlock](https://github.com/ApocalypseCalculator/AnotherAdBlock): A simplistic ad/tracker blocking extension for most modern browsers
 
-[Feck Files](https://github.com/ApocalypseCalculator/Feck): A robust online file drive site (temporarily privated for cleansing)
+[Feck Files](https://github.com/ApocalypseCalculator/Feck): A robust online file drive site (Was deleted and re-added to remove some personal information)
 
 [StalinLang](https://github.com/ApocalypseCalculator/StalinLang): A poorly written esoteric language that replaces JavaScript keywords (lol)
 
