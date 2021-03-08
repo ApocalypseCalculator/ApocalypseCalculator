@@ -23,6 +23,8 @@ Some of my projects:
 
 [StalinLang](https://github.com/ApocalypseCalculator/StalinLang): A poorly written esoteric language that replaces JavaScript keywords (lol)
 
+[AutoAds](https://github.com/Orbis-Software-Services/AutoAds): Automated ad rewards using direct browser emulation for [Politics & War](https://politicsandwar.com/)
+
 [pnw.js](https://github.com/Orbis-Software-Services/pnw.js): Work-in-progress API wrapper for online game [Politics & War](https://politicsandwar.com/)
 
 [Geno](https://github.com/Geno-Game): Work-in-progress game :) stay tuned for more info
