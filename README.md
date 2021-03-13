@@ -1,6 +1,19 @@
-### Hey there!
+## Hey there!
 
 Welcome to my GitHub profile, this is currently a work in progress. Check back later for more info!
+
+My Discord account is ApocalypseCalculator#7096. I do software engineering for fun, and sometimes competitive programming!
+
+### Technologies
+
+<img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF">
+
 
 <!-- [![ApocalypseCalculator's github stats](https://github-readme-stats.vercel.app/api?username=ApocalypseCalculator&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,6 +25,7 @@ Welcome to my GitHub profile, this is currently a work in progress. Check back l
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight" />
 </a>
+
 
 Some of my projects: 
 
