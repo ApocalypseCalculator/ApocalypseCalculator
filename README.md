@@ -19,7 +19,7 @@ My Discord account is ApocalypseCalculator#7096. I do software engineering for f
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight&langs_count=6" />
 </a>
-
+<br><br>
 
 Some of my projects: 
 
@@ -28,6 +28,8 @@ Some of my projects:
 [AnotherAdBlock](https://github.com/ApocalypseCalculator/AnotherAdBlock): A simplistic ad/tracker blocking extension for most modern browsers
 
 [Feck Files](https://github.com/ApocalypseCalculator/Feck): A robust online file drive site (Was deleted and re-added to remove some personal information)
+
+[Hangman](https://github.com/ApocalypseCalculator/Hangman): A simple hangman game written in Java using the ancient JRE1.4
 
 [StalinLang](https://github.com/ApocalypseCalculator/StalinLang): A poorly written esoteric language that replaces JavaScript keywords (lol)
 
