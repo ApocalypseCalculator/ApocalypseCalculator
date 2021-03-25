@@ -20,7 +20,7 @@ My Discord account is ApocalypseCalculator#7096. I do software engineering for f
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight&langs_count=6" />
 </a>
 
-^^^ the language stats are pretty unbalanced because my one Java repository has a file with 2.5k+ lines of code. 
+
 <br><br>
 
 **Some of my projects:**
