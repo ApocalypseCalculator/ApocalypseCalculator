@@ -20,7 +20,7 @@ My Discord account is ApocalypseCalculator#7096. I do software engineering for f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="#">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=ApocalypseCalculator&show_icons=true&theme=tokyonight&hide=prs&line_height=24&count_private=true&show_icons=true" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=ApocalypseCalculator&show_icons=true&theme=tokyonight&line_height=24&count_private=true&show_icons=true" />
 </a>
 <a href="#">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight&langs_count=10" />
