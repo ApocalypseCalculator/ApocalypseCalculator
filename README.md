@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile, this is currently a work in progress. Check back later for more info!
 
-My Discord account is ApocalypseCalculator#7096. I do software engineering for fun, and sometimes competitive programming!
+My Discord account is ApocalypseCalculator#7096 (now `nruce ban#9562` because my old account got hacked). I do software engineering for fun, and sometimes competitive programming!
 
 ### Technologies
 
@@ -13,7 +13,7 @@ My Discord account is ApocalypseCalculator#7096. I do software engineering for f
  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"> ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql) <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"> ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF"> 
  
 
-![](https://discord.c99.nl/widget/theme-3/492079026089885708.png)
+<!-- # ![](https://discord.c99.nl/widget/theme-3/492079026089885708.png) -->
 
 
 <!-- [![ApocalypseCalculator's github stats](https://github-readme-stats.vercel.app/api?username=ApocalypseCalculator&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
