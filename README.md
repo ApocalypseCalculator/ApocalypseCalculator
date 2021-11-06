@@ -40,6 +40,7 @@ My Discord account is ApocalypseCalculator#7096. I do software engineering for f
 [AutoAds](https://github.com/Orbis-Software-Services/AutoAds): Automated ad rewards using direct browser emulation for [Politics & War](https://politicsandwar.com/)
 
 **No longer maintained projects**
+
 [Hangman](https://github.com/ApocalypseCalculator/Hangman): A simple hangman game written in Java using the ancient JRE1.4
 
 [StalinLang](https://github.com/ApocalypseCalculator/StalinLang): A poorly written esoteric language that replaces JavaScript keywords
