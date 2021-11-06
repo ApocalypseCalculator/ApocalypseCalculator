@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile, this is currently a work in progress. Check back later for more info!
 
-My Discord account is ApocalypseCalculator#7096 (now `nruce ban#9562` because my old account got hacked). I do software engineering for fun, and sometimes competitive programming!
+My Discord account is ApocalypseCalculator#7096. I do software engineering for fun, and sometimes competitive programming!
 
 ### Technologies
 
@@ -37,11 +37,12 @@ My Discord account is ApocalypseCalculator#7096 (now `nruce ban#9562` because my
 
 [Feck Files](https://github.com/ApocalypseCalculator/Feck): A robust online file drive site (Was deleted and re-added to remove some personal information)
 
+[AutoAds](https://github.com/Orbis-Software-Services/AutoAds): Automated ad rewards using direct browser emulation for [Politics & War](https://politicsandwar.com/)
+
+**No longer maintained projects**
 [Hangman](https://github.com/ApocalypseCalculator/Hangman): A simple hangman game written in Java using the ancient JRE1.4
 
-[StalinLang](https://github.com/ApocalypseCalculator/StalinLang): A poorly written esoteric language that replaces JavaScript keywords (lol)
-
-[AutoAds](https://github.com/Orbis-Software-Services/AutoAds): Automated ad rewards using direct browser emulation for [Politics & War](https://politicsandwar.com/)
+[StalinLang](https://github.com/ApocalypseCalculator/StalinLang): A poorly written esoteric language that replaces JavaScript keywords
 
 [pnw.js](https://github.com/Orbis-Software-Services/pnw.js): Work-in-progress API wrapper for online game [Politics & War](https://politicsandwar.com/)
 
