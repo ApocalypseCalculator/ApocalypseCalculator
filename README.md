@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FApocalypseCalculator%2FApocalypseCalculator&count_bg=%2376CB35&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-Welcome to my GitHub profile! My most recent project is [SlavaUkraini](https://github.com/ApocalypseCalculator/SlavaUkraini). Glory to Ukraine! 
+Welcome to my GitHub profile! 
 
 My Discord account is ApocalypseCalculator#7096. I do software engineering for fun, and sometimes competitive programming!
 
