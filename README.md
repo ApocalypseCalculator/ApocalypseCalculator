@@ -19,9 +19,9 @@ My Discord account is ApocalypseCalculator#7096. I do software engineering for f
 <!-- [![ApocalypseCalculator's github stats](https://github-readme-stats.vercel.app/api?username=ApocalypseCalculator&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="#">
+<!--a href="#">
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=ApocalypseCalculator&show_icons=true&theme=tokyonight&line_height=24&count_private=true&show_icons=true" />
-</a>
+</a -->
 <a href="#">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApocalypseCalculator&layout=compact&theme=tokyonight&langs_count=10" />
 </a>
