@@ -33,15 +33,17 @@ My Discord account is ApocalypseCalculator#7096. I do software engineering for f
 
 [Someone bot](https://github.com/ApocalypseCalculator/Someone): A Discord bot that replicates the @someone feature from 2018 April fools
 
-[AnotherAdBlock](https://github.com/ApocalypseCalculator/AnotherAdBlock): A simplistic ad/tracker blocking extension for most modern browsers
-
 [Feck Files](https://github.com/ApocalypseCalculator/Feck): A robust online file drive site (Was deleted and re-added to remove some personal information)
+
+[QED](https://github.com/ApocalypseCalculator/QED): A platform for learners to find people willing to teach them a skill - with no barriers to entry. One of the winners at GoldenHacks 5. 
+
+[AnotherAdBlock](https://github.com/ApocalypseCalculator/AnotherAdBlock): A simplistic ad/tracker blocking extension for most modern browsers
 
 [AutoAds](https://github.com/Orbis-Software-Services/AutoAds): Automated ad rewards using direct browser emulation for [Politics & War](https://politicsandwar.com/)
 
 [Recordis](https://github.com/ApocalypseCalculator/Recordis): An automated browser Discord client to record screenshares. 
 
-[SlavaUkraini](https://github.com/ApocalypseCalculator/SlavaUkraini): A (D)DoS tool to attack Russian propaganda/government websites. 
+[SlavaUkraini](https://github.com/ApocalypseCalculator/SlavaUkraini): A ✨fUN✨ tool 😉. 
 
 **No longer maintained projects**
 
